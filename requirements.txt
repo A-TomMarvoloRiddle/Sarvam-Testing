@@ -2,3 +2,9 @@ sarvamai
 streamlit
 python-dotenv
 requests
+streamlit-webrtc
+streamlit-autorefresh
+numpy
+av
+aiortc
+tornado
